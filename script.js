@@ -170,8 +170,46 @@
 // }
 // product();
 
+//------------------------------------------------------------------------------------------//
 
+//17. Ulduzlari duzbucaqli ucbucag weklinde duzmeliyik
+// let i, j;
+// for(i=1; i<=5; i++)
+// {
+//  for(j=1; j<=i; j++)
+//   document.write("*");
+//   document.write("<br>");
+// }
 
+//18.reqemlerle duzbucaqli ucbucag
+// let i, j;
+// for(i=1; i<=5; i++)
+// {
+//  for(j=1; j<=i; j++)
+//   document.write(j);
+//   document.write("<br>");
+// }
+
+//19.
+// let i, j;
+// for (i = 1; i <= 5; i++) {
+//  for (j = 1; j <= i; j++) 
+//     document.write(i);
+//     document.write("<br>");
+// }
+
+//20.
+// let i, j, k;
+// for(i=1; i<=5; i++)
+// {
+//  for(j=i; j<5; j++)
+//   document.write("&nbsp;&nbsp;");
+//  for(k=1; k<i*2; k++)
+//   document.write("*");
+//   document.write("<br>");
+// }
+
+//21.
 
 
 
